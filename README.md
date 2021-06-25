@@ -4,7 +4,7 @@
 
 This little site has been refactored from the initial HTML and CSS files provided in GitLab.
 
-It's nothing fancy, but it should all be done. Chaning html tags and what not.
+It's nothing fancy, but it should all be done.
 
 [See Deployed Site here](https://davebloisesquire.github.io/super-duper-disco/)
 
